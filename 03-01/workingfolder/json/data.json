@@ -1,0 +1,11 @@
+{
+	"full_name" : "Ray",
+	"title" : "Staff Author",
+	"links" : [
+		{ "blog" : "http://iviewsource.com" },
+		{ "facebook" : "http://iviewsource.com" },
+		{ "podcast" : "http://iviewsource.com" },
+		{ "twitter" : "http://iviewsource.com" },
+		{ "youtube" : "http://iviewsource.com" }
+	]
+}
